@@ -19,7 +19,7 @@ naveen@github:~$ cat pinned-repos.md
 | repo | what it is |
 |------|-----------|
 | [`prendio-rag-assistant`](#) | LangGraph + LangChain procurement copilot — 50% support deflection |
-| [`prendio-design-system`](#) | Token-based component library · React + Chakra UI + Storybook |
+| [`prendio-design-system`](https://github.com/naveenrk93/naveenrk) | Token-based component library · React + Chakra UI + Storybook |
 | [`mfe-module-federation`](#) | Monolith → micro-frontend migration scaffold · Webpack Module Federation |
 | [`naveenrk.com`](#) | Portfolio · React 19 + TanStack Start + Framer Motion |
 | [`react-virtualized-grid`](#) | react-window patterns for data-heavy UIs · 70% re-render reduction |
